@@ -48,7 +48,7 @@ In this layer we will laverage the power of databricks and pyspark to apply and 
 
 and here are the notebooks managed and automated with databricks workflows
 
-![Uploading data_bricks_workflows.png…]()
+![data_bricks_workflows](https://github.com/user-attachments/assets/dc6c4ecd-0f5d-45eb-9237-bf06623c55e0)
 
 
 ## Conclusion
