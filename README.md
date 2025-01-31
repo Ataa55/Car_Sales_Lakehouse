@@ -17,7 +17,8 @@ and Azure Data Factory, we will the data to our structred schema at Azure sql db
 Here we will apply CDC to incrementally load the mew data from the Azure sql db to the Data lake.
 using the max date in the data and after the intitaila load, we will loaf only the new records amd update the water_mark date at the database with the current max_date for the next run.
 
-![alt text](images/azure_data_lake.png)
+![image](https://github.com/user-attachments/assets/5089cf05-0628-4eec-84d2-84041f834150)
+
 
 ### 3. Transformation
 
@@ -47,7 +48,8 @@ In this layer we will laverage the power of databricks and pyspark to apply and 
 
 and here are the notebooks managed and automated with databricks workflows
 
-![alt text](images/databricks_notebooks.png)
+![Uploading data_bricks_workflows.png…]()
+
 
 ## Conclusion
 
